@@ -1,12 +1,12 @@
 import "./App.css";
-import Discount from "./components/Discount";
-import Footer from "./components/Footer";
 import Header from "./components/Header";
-import Holiday from "./components/Holiday";
-import Newsletter from "./components/Newsletter";
-import Offer from "./components/Offer";
+import Discount from "./components/Discount";
 import Party from "./components/Party";
+import Offer from "./components/Offer";
+import Holiday from "./components/Holiday";
 import Portfolio from "./components/Portfolio";
+import Newsletter from "./components/Newsletter";
+import Footer from "./components/Footer";
 
 function App() {
   return (
